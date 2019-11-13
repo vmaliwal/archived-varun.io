@@ -1,6 +1,6 @@
 {
   "production": {
-    "apiUrl": "https://varun.io",
+    "apiUrl": "https://ghost.varun.io",
     "contentApiKey": "ec95df8de3768157bcc5d0154a"
   }
 }
